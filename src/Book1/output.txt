@@ -1,0 +1,4 @@
+The sum: 0.0
+The lowest number is: 1.0
+The highest number is: 1.7976931348623157E308
+The average of the number is 0.0
